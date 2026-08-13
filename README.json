@@ -1,0 +1,326 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LinuxKit",
+          "description": "\"A toolkit for building secure, portable and lean operating systems for containers\" - PXE support, focus on immutable infrastructure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-03T14:29:49Z",
+            "owner": "linuxkit",
+            "repo": "linuxkit",
+            "stars": 8641
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "foreman",
+          "description": "\"From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-13T08:28:11Z",
+            "owner": "theforeman",
+            "repo": "foreman",
+            "stars": 2904
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cobbler",
+          "description": "\"Cobbler is a Linux installation server that allows for rapid setup of network installation environments\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:58:19Z",
+            "owner": "cobbler",
+            "repo": "cobbler",
+            "stars": 2767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Typhoon",
+          "description": "\"A minimal and free Kubernetes distribution with Terraform backed by Fedora CoreOS or Flatcar Linux\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-07T22:24:48Z",
+            "owner": "poseidon",
+            "repo": "typhoon",
+            "stars": 2049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pixiecore",
+          "description": "\"Pixiecore is an tool to manage network booting of machines\" by Dave Anderson",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-01T19:05:55Z",
+            "owner": "danderson",
+            "repo": "netboot",
+            "stars": 1605
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iDRAC 6 dockerized",
+          "description": "\"Allows access to the iDRAC 6 console without installing Java or messing with Java Web Start.\" by DomiStyle",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-28T12:17:44Z",
+            "owner": "DomiStyle",
+            "repo": "docker-idrac6",
+            "stars": 930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Warewulf",
+          "description": "\"Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T00:43:54Z",
+            "owner": "warewulf",
+            "repo": "warewulf",
+            "stars": 660
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ironic",
+          "description": "\"A service for managing and provisioning Bare Metal servers\" - from OpenStack Foundation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:24:24Z",
+            "owner": "openstack",
+            "repo": "ironic",
+            "stars": 559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "metalk8s",
+          "description": "\"MetalK8s was launched to make it easier to run Kubernetes (K8s) on bare-metal servers that need persistent storage\" by Scality",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scheme",
+            "last_commit": "2026-08-13T08:42:55Z",
+            "owner": "scality",
+            "repo": "metalk8s",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mr-provisioner",
+          "description": "\"Bare metal provisioning tool\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-12T08:54:19Z",
+            "owner": "mr-provisioner",
+            "repo": "mr-provisioner",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "confluent",
+          "description": "\"Service for onboarding and management of baremetal server BMCs and PXE\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:48:29Z",
+            "owner": "lenovo",
+            "repo": "confluent",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "Self-hosted tools for bare-metal management"
+    },
+    {
+      "description": "These projects may be archived but are useful for learning and inspiration.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Razor",
+          "description": "(archived) - \"Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning\"",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2020-07-08T17:21:51Z",
+            "owner": "puppetlabs-toy-chest",
+            "repo": "razor-server",
+            "stars": 506
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "plundr",
+          "description": "(inactive on GitHub - 4yrs) - \"Plunder is a single-binary server that is all designed in order to make the provisioning of servers, platforms and applications easier.\" - with ClusterAPI support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2020-05-20T12:30:06Z",
+            "owner": "plunder-app",
+            "repo": "plunder",
+            "stars": 183
+          }
+        }
+      ],
+      "title": "Inactive projects"
+    },
+    {
+      "description": "Tools often used with bare-metal tooling:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Varnish-Cache",
+          "description": "Varnish Cache, the high-performance HTTP accelerator",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2026-02-16T01:29:54Z",
+            "owner": "varnishcache",
+            "repo": "varnish-cache",
+            "stars": 4049
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-vip",
+          "description": "\"Kubernetes Control Plane Virtual IP and Load-Balancer\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T10:54:34Z",
+            "owner": "kube-vip",
+            "repo": "kube-vip",
+            "stars": 2929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PorterLB",
+          "description": "\"PorterLB is an open-source load balancer implementation designed for bare-metal Kubernetes clusters.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-26T13:37:27Z",
+            "owner": "openelb",
+            "repo": "openelb",
+            "stars": 1774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inlets-operator",
+          "description": "\"Public IPs for your private Kubernetes Services using inlets\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-08T15:06:14Z",
+            "owner": "inlets",
+            "repo": "inlets-operator",
+            "stars": 1434
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "inlets",
+          "description": "\"A Cloud Native Tunnel for L4 TCP and L7 HTTPS\" (sponsored)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Mustache",
+            "last_commit": "2026-07-14T17:01:36Z",
+            "owner": "inlets",
+            "repo": "inlets-pro",
+            "stars": 575
+          }
+        }
+      ],
+      "title": "Networking for bare-metal cloud"
+    },
+    {
+      "description": "Orchestration of Virtual Machines (VMs) using KVM.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cloud Hypervisor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T01:35:09Z",
+            "owner": "cloud-hypervisor",
+            "repo": "cloud-hypervisor",
+            "stars": 6104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ganeti",
+          "description": "\"Open source hyperconverged VM platform that scales from several to thousands of bare metal servers. Originally written for internal use at Google.\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T10:06:33Z",
+            "owner": "ganeti",
+            "repo": "ganeti",
+            "stars": 578
+          }
+        }
+      ],
+      "title": "Open Source Virtualization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Appendix"
+    },
+    {
+      "description": "Each section should be sorted after it's been updated, here's how you can do that with bash.\nThen paste the output back into the document.",
+      "items": [],
+      "title": "Sorting sections"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:52:49.058Z",
+    "original_repository": "alexellis/awesome-baremetal",
+    "original_repository_sha": "5094dbafd7e2b29231ea87262136cb8c220d4e56",
+    "enhanced_repository": "enhansome/enhansome-baremetal",
+    "enhanced_repository_description": null,
+    "title": "awesome-baremetal with stars"
+  }
+}
