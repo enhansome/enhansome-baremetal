@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-13T18:33:18Z",
+            "last_commit": "2026-08-14T16:27:30Z",
             "owner": "theforeman",
             "repo": "foreman",
             "stars": 2904
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T06:35:21Z",
+            "last_commit": "2026-08-14T22:44:41Z",
             "owner": "cobbler",
             "repo": "cobbler",
             "stars": 2768
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-07T22:24:48Z",
             "owner": "poseidon",
             "repo": "typhoon",
-            "stars": 2049
+            "stars": 2050
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-02-28T12:17:44Z",
             "owner": "DomiStyle",
             "repo": "docker-idrac6",
-            "stars": 931
+            "stars": 930
           }
         },
         {
@@ -109,7 +109,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T21:30:53Z",
+            "last_commit": "2026-08-14T21:06:33Z",
             "owner": "openstack",
             "repo": "ironic",
             "stars": 559
@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scheme",
-            "last_commit": "2026-08-13T19:04:53Z",
+            "last_commit": "2026-08-14T14:50:41Z",
             "owner": "scality",
             "repo": "metalk8s",
             "stars": 391
@@ -151,7 +151,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T20:34:29Z",
+            "last_commit": "2026-08-14T18:37:11Z",
             "owner": "lenovo",
             "repo": "confluent",
             "stars": 32
@@ -222,7 +222,7 @@
             "last_commit": "2026-08-12T10:54:34Z",
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 2931
+            "stars": 2932
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-04-08T15:06:14Z",
             "owner": "inlets",
             "repo": "inlets-operator",
-            "stars": 1435
+            "stars": 1436
           }
         },
         {
@@ -281,10 +281,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T01:48:11Z",
+            "last_commit": "2026-08-15T01:03:20Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6105
+            "stars": 6108
           }
         },
         {
@@ -316,7 +316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:46:52.030Z",
+    "last_updated": "2026-08-15T07:55:07.764Z",
     "original_repository": "alexellis/awesome-baremetal",
     "original_repository_sha": "5094dbafd7e2b29231ea87262136cb8c220d4e56",
     "enhanced_repository": "enhansome/enhansome-baremetal",
