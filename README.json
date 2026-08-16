@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T16:27:30Z",
             "owner": "theforeman",
             "repo": "foreman",
-            "stars": 2904
+            "stars": 2905
           }
         },
         {
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:44:41Z",
+            "last_commit": "2026-08-15T10:16:42Z",
             "owner": "cobbler",
             "repo": "cobbler",
             "stars": 2768
@@ -151,7 +151,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T18:37:11Z",
+            "last_commit": "2026-08-15T14:29:44Z",
             "owner": "lenovo",
             "repo": "confluent",
             "stars": 32
@@ -264,7 +264,7 @@
             "last_commit": "2026-07-14T17:01:36Z",
             "owner": "inlets",
             "repo": "inlets-pro",
-            "stars": 575
+            "stars": 574
           }
         }
       ],
@@ -284,7 +284,7 @@
             "last_commit": "2026-08-15T01:03:20Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6108
+            "stars": 6110
           }
         },
         {
@@ -316,7 +316,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:55:07.764Z",
+    "last_updated": "2026-08-16T07:56:36.834Z",
     "original_repository": "alexellis/awesome-baremetal",
     "original_repository_sha": "5094dbafd7e2b29231ea87262136cb8c220d4e56",
     "enhanced_repository": "enhansome/enhansome-baremetal",
