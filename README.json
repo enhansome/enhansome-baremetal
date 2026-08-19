@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46932243,
             "language": "Go",
             "last_commit": "2026-06-03T14:29:49Z",
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8640
+            "stars": 8641
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258750,
             "language": "Ruby",
             "last_commit": "2026-08-18T08:03:27Z",
             "owner": "theforeman",
             "repo": "foreman",
-            "stars": 2905
+            "stars": 2906
           }
         },
         {
@@ -38,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2734482,
             "language": "Python",
-            "last_commit": "2026-08-16T19:10:21Z",
+            "last_commit": "2026-08-18T10:42:16Z",
             "owner": "cobbler",
             "repo": "cobbler",
             "stars": 2768
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99544448,
             "language": "HCL",
             "last_commit": "2026-08-17T20:21:54Z",
             "owner": "poseidon",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53910889,
             "language": "Go",
             "last_commit": "2026-02-01T19:05:55Z",
             "owner": "danderson",
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128167880,
             "language": "C",
             "last_commit": "2026-02-28T12:17:44Z",
             "owner": "DomiStyle",
             "repo": "docker-idrac6",
-            "stars": 930
+            "stars": 931
           }
         },
         {
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308060485,
             "language": "Go",
             "last_commit": "2026-08-12T00:43:54Z",
             "owner": "warewulf",
@@ -108,8 +115,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10066301,
             "language": "Python",
-            "last_commit": "2026-08-17T23:07:33Z",
+            "last_commit": "2026-08-18T17:54:37Z",
             "owner": "openstack",
             "repo": "ironic",
             "stars": 559
@@ -122,8 +130,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124905930,
             "language": "Scheme",
-            "last_commit": "2026-08-18T07:38:10Z",
+            "last_commit": "2026-08-19T08:01:41Z",
             "owner": "scality",
             "repo": "metalk8s",
             "stars": 392
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 93401840,
             "language": "JavaScript",
             "last_commit": "2023-01-12T08:54:19Z",
             "owner": "mr-provisioner",
@@ -150,49 +160,53 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 79814361,
             "language": "Python",
-            "last_commit": "2026-08-15T14:29:44Z",
+            "last_commit": "2026-08-18T20:44:56Z",
             "owner": "lenovo",
             "repo": "confluent",
             "stars": 32
           }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Razor",
+              "description": "(archived) - \"Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning\"",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10631737,
+                "language": "Ruby",
+                "last_commit": "2020-07-08T17:21:51Z",
+                "owner": "puppetlabs-toy-chest",
+                "repo": "razor-server",
+                "stars": 506
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "plundr",
+              "description": "(inactive on GitHub - 4yrs) - \"Plunder is a single-binary server that is all designed in order to make the provisioning of servers, platforms and applications easier.\" - with ClusterAPI support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157703174,
+                "language": "Go",
+                "last_commit": "2020-05-20T12:30:06Z",
+                "owner": "plunder-app",
+                "repo": "plunder",
+                "stars": 183
+              }
+            }
+          ],
+          "description": "These projects may be archived but are useful for learning and inspiration.",
+          "node_type": "group",
+          "title": "Inactive projects"
         }
       ],
       "title": "Self-hosted tools for bare-metal management"
-    },
-    {
-      "description": "These projects may be archived but are useful for learning and inspiration.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Razor",
-          "description": "(archived) - \"Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning\"",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2020-07-08T17:21:51Z",
-            "owner": "puppetlabs-toy-chest",
-            "repo": "razor-server",
-            "stars": 506
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "plundr",
-          "description": "(inactive on GitHub - 4yrs) - \"Plunder is a single-binary server that is all designed in order to make the provisioning of servers, platforms and applications easier.\" - with ClusterAPI support",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-05-20T12:30:06Z",
-            "owner": "plunder-app",
-            "repo": "plunder",
-            "stars": 183
-          }
-        }
-      ],
-      "title": "Inactive projects"
     },
     {
       "description": "Tools often used with bare-metal tooling:",
@@ -204,6 +218,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 43681824,
             "language": "C",
             "last_commit": "2026-02-16T01:29:54Z",
             "owner": "varnishcache",
@@ -218,11 +233,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237778673,
             "language": "Go",
-            "last_commit": "2026-08-18T07:45:51Z",
+            "last_commit": "2026-08-18T15:21:20Z",
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 2932
+            "stars": 2933
           }
         },
         {
@@ -232,11 +248,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168629414,
             "language": "Go",
             "last_commit": "2025-05-26T13:37:27Z",
             "owner": "openelb",
             "repo": "openelb",
-            "stars": 1775
+            "stars": 1774
           }
         },
         {
@@ -246,8 +263,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 208065018,
             "language": "Go",
-            "last_commit": "2026-04-08T15:06:14Z",
+            "last_commit": "2026-08-18T15:36:41Z",
             "owner": "inlets",
             "repo": "inlets-operator",
             "stars": 1436
@@ -260,6 +278,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 214656224,
             "language": "Mustache",
             "last_commit": "2026-07-14T17:01:36Z",
             "owner": "inlets",
@@ -280,11 +299,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-17T20:08:03Z",
+            "last_commit": "2026-08-19T04:16:22Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6116
+            "stars": 6121
           }
         },
         {
@@ -294,6 +314,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25163509,
             "language": "Python",
             "last_commit": "2026-07-27T10:06:33Z",
             "owner": "ganeti",
@@ -303,20 +324,10 @@
         }
       ],
       "title": "Open Source Virtualization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Appendix"
-    },
-    {
-      "description": "Each section should be sorted after it's been updated, here's how you can do that with bash.\nThen paste the output back into the document.",
-      "items": [],
-      "title": "Sorting sections"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:05:01.033Z",
+    "last_updated": "2026-08-19T08:06:08.203Z",
     "original_repository": "alexellis/awesome-baremetal",
     "original_repository_sha": "5094dbafd7e2b29231ea87262136cb8c220d4e56",
     "enhanced_repository": "enhansome/enhansome-baremetal",
