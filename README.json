@@ -27,7 +27,7 @@
             "archived": false,
             "id": 258750,
             "language": "Ruby",
-            "last_commit": "2026-08-20T17:00:32Z",
+            "last_commit": "2026-08-21T17:50:00Z",
             "owner": "theforeman",
             "repo": "foreman",
             "stars": 2907
@@ -132,10 +132,10 @@
             "archived": false,
             "id": 124905930,
             "language": "Scheme",
-            "last_commit": "2026-08-21T07:57:54Z",
+            "last_commit": "2026-08-21T22:04:20Z",
             "owner": "scality",
             "repo": "metalk8s",
-            "stars": 393
+            "stars": 394
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 79814361,
             "language": "Python",
-            "last_commit": "2026-08-20T16:41:10Z",
+            "last_commit": "2026-08-21T21:27:50Z",
             "owner": "lenovo",
             "repo": "confluent",
             "stars": 32
@@ -235,7 +235,7 @@
             "archived": false,
             "id": 237778673,
             "language": "Go",
-            "last_commit": "2026-08-21T07:48:28Z",
+            "last_commit": "2026-08-21T14:42:46Z",
             "owner": "kube-vip",
             "repo": "kube-vip",
             "stars": 2935
@@ -301,10 +301,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-21T02:27:29Z",
+            "last_commit": "2026-08-21T18:05:09Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6129
+            "stars": 6130
           }
         },
         {
@@ -327,7 +327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:09:10.094Z",
+    "last_updated": "2026-08-22T07:56:41.333Z",
     "original_repository": "alexellis/awesome-baremetal",
     "original_repository_id": 255855988,
     "original_repository_sha": "5094dbafd7e2b29231ea87262136cb8c220d4e56",
