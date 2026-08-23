@@ -27,7 +27,7 @@
             "archived": false,
             "id": 258750,
             "language": "Ruby",
-            "last_commit": "2026-08-21T17:50:00Z",
+            "last_commit": "2026-08-22T09:08:42Z",
             "owner": "theforeman",
             "repo": "foreman",
             "stars": 2907
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T10:39:30Z",
             "owner": "cobbler",
             "repo": "cobbler",
-            "stars": 2767
+            "stars": 2768
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 99544448,
             "language": "HCL",
-            "last_commit": "2026-08-17T20:21:54Z",
+            "last_commit": "2026-08-23T07:41:51Z",
             "owner": "poseidon",
             "repo": "typhoon",
             "stars": 2050
@@ -301,10 +301,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-21T18:05:09Z",
+            "last_commit": "2026-08-22T10:24:37Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6130
+            "stars": 6134
           }
         },
         {
@@ -327,7 +327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:56:41.333Z",
+    "last_updated": "2026-08-23T07:58:35.189Z",
     "original_repository": "alexellis/awesome-baremetal",
     "original_repository_id": 255855988,
     "original_repository_sha": "5094dbafd7e2b29231ea87262136cb8c220d4e56",
