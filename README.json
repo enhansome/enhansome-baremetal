@@ -27,7 +27,7 @@
             "archived": false,
             "id": 258750,
             "language": "Ruby",
-            "last_commit": "2026-08-22T09:08:42Z",
+            "last_commit": "2026-08-24T12:49:24Z",
             "owner": "theforeman",
             "repo": "foreman",
             "stars": 2907
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 2734482,
             "language": "Python",
-            "last_commit": "2026-08-23T19:32:20Z",
+            "last_commit": "2026-08-24T13:25:22Z",
             "owner": "cobbler",
             "repo": "cobbler",
             "stars": 2768
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 10066301,
             "language": "Python",
-            "last_commit": "2026-08-24T04:49:56Z",
+            "last_commit": "2026-08-24T12:47:13Z",
             "owner": "openstack",
             "repo": "ironic",
             "stars": 560
@@ -235,10 +235,10 @@
             "archived": false,
             "id": 237778673,
             "language": "Go",
-            "last_commit": "2026-08-24T07:37:07Z",
+            "last_commit": "2026-08-24T14:02:08Z",
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 2938
+            "stars": 2939
           }
         },
         {
@@ -301,10 +301,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-22T10:24:37Z",
+            "last_commit": "2026-08-24T13:50:43Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6137
+            "stars": 6138
           }
         },
         {
@@ -327,7 +327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:22:28.255Z",
+    "last_updated": "2026-08-24T14:06:12.606Z",
     "original_repository": "alexellis/awesome-baremetal",
     "original_repository_id": 255855988,
     "original_repository_sha": "5094dbafd7e2b29231ea87262136cb8c220d4e56",
