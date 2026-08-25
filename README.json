@@ -42,7 +42,7 @@
             "archived": false,
             "id": 2734482,
             "language": "Python",
-            "last_commit": "2026-08-24T13:25:22Z",
+            "last_commit": "2026-08-25T07:42:19Z",
             "owner": "cobbler",
             "repo": "cobbler",
             "stars": 2769
@@ -301,10 +301,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-24T20:56:12Z",
+            "last_commit": "2026-08-25T08:17:49Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6140
+            "stars": 6141
           }
         },
         {
@@ -327,7 +327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:33.695Z",
+    "last_updated": "2026-08-25T08:20:15.031Z",
     "original_repository": "alexellis/awesome-baremetal",
     "original_repository_id": 255855988,
     "original_repository_sha": "5094dbafd7e2b29231ea87262136cb8c220d4e56",
