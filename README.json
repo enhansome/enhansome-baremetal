@@ -15,7 +15,7 @@
             "last_commit": "2026-06-03T14:29:49Z",
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8641
+            "stars": 8642
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 258750,
             "language": "Ruby",
-            "last_commit": "2026-08-24T12:49:24Z",
+            "last_commit": "2026-08-24T17:42:18Z",
             "owner": "theforeman",
             "repo": "foreman",
             "stars": 2907
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-24T13:25:22Z",
             "owner": "cobbler",
             "repo": "cobbler",
-            "stars": 2768
+            "stars": 2769
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 10066301,
             "language": "Python",
-            "last_commit": "2026-08-24T12:47:13Z",
+            "last_commit": "2026-08-25T02:53:02Z",
             "owner": "openstack",
             "repo": "ironic",
-            "stars": 560
+            "stars": 562
           }
         },
         {
@@ -162,7 +162,7 @@
             "archived": false,
             "id": 79814361,
             "language": "Python",
-            "last_commit": "2026-08-21T21:27:50Z",
+            "last_commit": "2026-08-24T20:52:37Z",
             "owner": "lenovo",
             "repo": "confluent",
             "stars": 32
@@ -235,7 +235,7 @@
             "archived": false,
             "id": 237778673,
             "language": "Go",
-            "last_commit": "2026-08-24T14:02:08Z",
+            "last_commit": "2026-08-24T17:08:24Z",
             "owner": "kube-vip",
             "repo": "kube-vip",
             "stars": 2939
@@ -301,10 +301,10 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:50:43Z",
+            "last_commit": "2026-08-24T20:56:12Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6138
+            "stars": 6140
           }
         },
         {
@@ -327,7 +327,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:12.606Z",
+    "last_updated": "2026-08-25T06:05:33.695Z",
     "original_repository": "alexellis/awesome-baremetal",
     "original_repository_id": 255855988,
     "original_repository_sha": "5094dbafd7e2b29231ea87262136cb8c220d4e56",
