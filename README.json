@@ -16,7 +16,8 @@
             "owner": "linuxkit",
             "repo": "linuxkit",
             "stars": 8643
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-27T15:42:48Z",
             "owner": "theforeman",
             "repo": "foreman",
-            "stars": 2907
-          }
+            "stars": 2908
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 2734482,
             "language": "Python",
-            "last_commit": "2026-08-27T18:14:32Z",
+            "last_commit": "2026-08-28T14:01:52Z",
             "owner": "cobbler",
             "repo": "cobbler",
             "stars": 2766
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "poseidon",
             "repo": "typhoon",
             "stars": 2052
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-02-01T19:05:55Z",
             "owner": "danderson",
             "repo": "netboot",
-            "stars": 1608
-          }
+            "stars": 1609
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "DomiStyle",
             "repo": "docker-idrac6",
             "stars": 932
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "warewulf",
             "repo": "warewulf",
             "stars": 659
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "openstack",
             "repo": "ironic",
             "stars": 563
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -132,11 +140,12 @@
             "archived": false,
             "id": 124905930,
             "language": "Scheme",
-            "last_commit": "2026-08-27T18:05:22Z",
+            "last_commit": "2026-08-28T17:40:08Z",
             "owner": "scality",
             "repo": "metalk8s",
             "stars": 394
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "mr-provisioner",
             "repo": "mr-provisioner",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -162,11 +172,12 @@
             "archived": false,
             "id": 79814361,
             "language": "Python",
-            "last_commit": "2026-08-27T15:46:44Z",
+            "last_commit": "2026-08-28T17:23:26Z",
             "owner": "lenovo",
             "repo": "confluent",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "children": [
@@ -183,7 +194,8 @@
                 "owner": "puppetlabs-toy-chest",
                 "repo": "razor-server",
                 "stars": 506
-              }
+              },
+              "first_seen": "2026-08-28T19:34:15.215Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "plunder-app",
                 "repo": "plunder",
                 "stars": 183
-              }
+              },
+              "first_seen": "2026-08-28T19:34:15.215Z"
             }
           ],
           "description": "These projects may be archived but are useful for learning and inspiration.",
@@ -224,7 +237,8 @@
             "owner": "varnishcache",
             "repo": "varnish-cache",
             "stars": 4048
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -235,11 +249,12 @@
             "archived": false,
             "id": 237778673,
             "language": "Go",
-            "last_commit": "2026-08-27T12:50:39Z",
+            "last_commit": "2026-08-28T18:29:24Z",
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 2941
-          }
+            "stars": 2942
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -254,7 +269,8 @@
             "owner": "openelb",
             "repo": "openelb",
             "stars": 1774
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -269,7 +285,8 @@
             "owner": "inlets",
             "repo": "inlets-operator",
             "stars": 1436
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -284,7 +301,8 @@
             "owner": "inlets",
             "repo": "inlets-pro",
             "stars": 574
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         }
       ],
       "title": "Networking for bare-metal cloud"
@@ -301,11 +319,12 @@
             "archived": false,
             "id": 184341774,
             "language": "Rust",
-            "last_commit": "2026-08-27T17:32:43Z",
+            "last_commit": "2026-08-28T17:02:01Z",
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6152
-          }
+            "stars": 6156
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         },
         {
           "node_type": "item",
@@ -320,14 +339,15 @@
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 582
-          }
+          },
+          "first_seen": "2026-08-28T19:34:15.215Z"
         }
       ],
       "title": "Open Source Virtualization"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:23:33.896Z",
+    "last_updated": "2026-08-28T19:34:15.215Z",
     "original_repository_info": {
       "archived": false,
       "id": 255855988,
