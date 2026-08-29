@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit for building secure, portable and lean operating systems for containers",
+            "homepage": null,
             "id": 46932243,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-03T14:29:49Z",
+            "open_issues": 378,
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8643
+            "stars": 8643,
+            "topics": [
+              "cloud",
+              "containers",
+              "devops-tools",
+              "immutable-infrastructure",
+              "linux",
+              "linuxkit"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -26,12 +38,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "an application that automates the lifecycle of servers ",
+            "homepage": "https://theforeman.org",
             "id": 258750,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T15:42:48Z",
+            "open_issues": 114,
             "owner": "theforeman",
             "repo": "foreman",
-            "stars": 2908
+            "stars": 2909,
+            "topics": [
+              "cloud",
+              "config-management",
+              "foreman",
+              "hacktoberfest",
+              "hybrid-cloud",
+              "infrastructure",
+              "infrastructure-management",
+              "maas",
+              "provisioning",
+              "puppet",
+              "rails",
+              "ruby",
+              "theforeman",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -42,12 +74,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cobbler is a versatile Linux deployment server",
+            "homepage": "https://cobbler.github.io",
             "id": 2734482,
             "language": "Python",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T14:01:52Z",
+            "open_issues": 309,
             "owner": "cobbler",
             "repo": "cobbler",
-            "stars": 2766
+            "stars": 2766,
+            "topics": [
+              "cobbler",
+              "deployment",
+              "dhcp",
+              "hacktoberfest",
+              "pxe",
+              "python",
+              "tftp"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -58,12 +103,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal and free Kubernetes distribution with Terraform",
+            "homepage": "https://typhoon.psdn.io/",
             "id": 99544448,
             "language": "HCL",
+            "license": "MIT",
             "last_commit": "2026-08-23T07:41:51Z",
+            "open_issues": 9,
             "owner": "poseidon",
             "repo": "typhoon",
-            "stars": 2052
+            "stars": 2052,
+            "topics": [
+              "aws",
+              "azure",
+              "bare-metal",
+              "coreos",
+              "digitalocean",
+              "fedora-coreos",
+              "flatcar-linux",
+              "google-cloud",
+              "kubernetes",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -74,12 +135,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packages and utilities for network booting",
+            "homepage": null,
             "id": 53910889,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-01T19:05:55Z",
+            "open_issues": 36,
             "owner": "danderson",
             "repo": "netboot",
-            "stars": 1609
+            "stars": 1609,
+            "topics": [
+              "dhcp",
+              "netboot",
+              "pcap",
+              "pixiecore",
+              "pxe",
+              "tftp"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -90,12 +163,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "iDRAC 6 web interface and VNC proxy",
+            "homepage": "https://hub.docker.com/r/domistyle/idrac6/",
             "id": 128167880,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-02-28T12:17:44Z",
+            "open_issues": 40,
             "owner": "DomiStyle",
             "repo": "docker-idrac6",
-            "stars": 932
+            "stars": 933,
+            "topics": [
+              "dell",
+              "docker",
+              "idrac",
+              "novnc",
+              "remote",
+              "vnc",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -106,12 +192,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems.",
+            "homepage": "https://warewulf.org",
             "id": 308060485,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-12T00:43:54Z",
+            "open_issues": 266,
             "owner": "warewulf",
             "repo": "warewulf",
-            "stars": 659
+            "stars": 659,
+            "topics": [
+              "clusters",
+              "containers",
+              "hpc",
+              "provisioning",
+              "stateless",
+              "warewulf"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -122,12 +220,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A service for managing and provisioning Bare Metal servers. Mirror of code maintained at opendev.org.",
+            "homepage": "https://opendev.org/openstack/ironic",
             "id": 10066301,
             "language": "Python",
-            "last_commit": "2026-08-25T13:03:13Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:47:25Z",
+            "open_issues": 0,
             "owner": "openstack",
             "repo": "ironic",
-            "stars": 563
+            "stars": 563,
+            "topics": [
+              "service"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -138,12 +243,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An opinionated Kubernetes distribution with a focus on long-term on-prem deployments",
+            "homepage": null,
             "id": 124905930,
             "language": "Scheme",
-            "last_commit": "2026-08-28T17:40:08Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T20:34:37Z",
+            "open_issues": 500,
             "owner": "scality",
             "repo": "metalk8s",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "artesca",
+              "cloud",
+              "cloud-native",
+              "k8s",
+              "k8s-cluster",
+              "k8s-deployer",
+              "k8s-install",
+              "kubernetes",
+              "kubernetes-cluster",
+              "kubernetes-deployment",
+              "kubernetes-distribution",
+              "kubernetes-installation",
+              "kubernetes-monitoring",
+              "kubernetes-setup",
+              "on-prem",
+              "on-premise",
+              "on-premises"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -154,12 +282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bare metal provisioning tool ",
+            "homepage": null,
             "id": 93401840,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-12T08:54:19Z",
+            "open_issues": 88,
             "owner": "mr-provisioner",
             "repo": "mr-provisioner",
-            "stars": 46
+            "stars": 46,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -170,12 +303,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Confluent Cluster Management software",
+            "homepage": "https://hpc.lenovo.com",
             "id": 79814361,
             "language": "Python",
-            "last_commit": "2026-08-28T17:23:26Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:59:03Z",
+            "open_issues": 0,
             "owner": "lenovo",
             "repo": "confluent",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "administration",
+              "cluster",
+              "hpc"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -188,12 +330,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning",
+                "homepage": null,
                 "id": 10631737,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2020-07-08T17:21:51Z",
+                "open_issues": 3,
                 "owner": "puppetlabs-toy-chest",
                 "repo": "razor-server",
-                "stars": 506
+                "stars": 506,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:34:15.215Z"
             },
@@ -204,12 +351,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Modern automation platform",
+                "homepage": null,
                 "id": 157703174,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2020-05-20T12:30:06Z",
+                "open_issues": 15,
                 "owner": "plunder-app",
                 "repo": "plunder",
-                "stars": 183
+                "stars": 183,
+                "topics": [
+                  "bare-metal",
+                  "bootstrap",
+                  "dhcp",
+                  "kubernetes",
+                  "preseed",
+                  "ssh",
+                  "tftp"
+                ]
               },
               "first_seen": "2026-08-28T19:34:15.215Z"
             }
@@ -231,12 +391,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Varnish Cache source code repository",
+            "homepage": "https://www.varnish-cache.org",
             "id": 43681824,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-16T01:29:54Z",
+            "open_issues": 149,
             "owner": "varnishcache",
             "repo": "varnish-cache",
-            "stars": 4048
+            "stars": 4048,
+            "topics": [
+              "caching",
+              "high-performance",
+              "http",
+              "reverse-proxy"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -247,12 +417,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Control Plane Virtual IP and Load-Balancer",
+            "homepage": "https://kube-vip.io",
             "id": 237778673,
             "language": "Go",
-            "last_commit": "2026-08-28T18:29:24Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:08:30Z",
+            "open_issues": 68,
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 2942
+            "stars": 2942,
+            "topics": [
+              "bgp",
+              "control-plane",
+              "edge",
+              "egress",
+              "kube-vip",
+              "kubernetes",
+              "kubernetes-cluster",
+              "kubernetes-services",
+              "load-balancer",
+              "raspberry-pi",
+              "service-loadbalancer",
+              "vip"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -263,12 +451,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization",
+            "homepage": "https://openelb.io",
             "id": 168629414,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-26T13:37:27Z",
+            "open_issues": 78,
             "owner": "openelb",
             "repo": "openelb",
-            "stars": 1774
+            "stars": 1774,
+            "topics": [
+              "bare-metal",
+              "baremetal",
+              "edge",
+              "k3s",
+              "kubernetes",
+              "lb",
+              "load-balancer"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -279,12 +480,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get public TCP LoadBalancers for local Kubernetes clusters",
+            "homepage": "https://docs.inlets.dev/reference/inlets-operator",
             "id": 208065018,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-18T15:36:41Z",
+            "open_issues": 8,
             "owner": "inlets",
             "repo": "inlets-operator",
-            "stars": 1436
+            "stars": 1436,
+            "topics": [
+              "cloud-native",
+              "devops",
+              "encrypted",
+              "hacktoberfest",
+              "k3d",
+              "kind",
+              "kubernetes",
+              "load-balancer",
+              "loadbalancer",
+              "local-cluster",
+              "minikube",
+              "nat-traversal",
+              "private-cloud",
+              "tcp",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -295,12 +517,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Secure HTTP and TCP tunnels that just work",
+            "homepage": "https://inlets.dev",
             "id": 214656224,
             "language": "Mustache",
+            "license": null,
             "last_commit": "2026-07-14T17:01:36Z",
+            "open_issues": 3,
             "owner": "inlets",
             "repo": "inlets-pro",
-            "stars": 574
+            "stars": 574,
+            "topics": [
+              "carrier-grade-nat",
+              "cloud-native",
+              "enterprise",
+              "gfw",
+              "hybrid-cloud",
+              "inlets",
+              "inlets-pro",
+              "kubernetes",
+              "l4",
+              "mesh",
+              "nat",
+              "networking",
+              "on-premises",
+              "proxy",
+              "service-proxy",
+              "service-tunnel",
+              "ssh",
+              "tcp",
+              "tcp-traffic",
+              "tunnel"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         }
@@ -317,12 +565,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.",
+            "homepage": "https://www.cloudhypervisor.org",
             "id": 184341774,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-28T17:02:01Z",
+            "open_issues": 220,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6156
+            "stars": 6157,
+            "topics": [
+              "cloud-workloads",
+              "kvm",
+              "rust-vmm",
+              "virtualization"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         },
@@ -333,12 +591,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ganeti is a virtual machine cluster management tool built on top of existing virtualization technologies such as Xen or KVM and other open source software.",
+            "homepage": "http://www.ganeti.org",
             "id": 25163509,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-27T10:06:33Z",
+            "open_issues": 334,
             "owner": "ganeti",
             "repo": "ganeti",
-            "stars": 582
+            "stars": 582,
+            "topics": [
+              "haskell",
+              "kvm",
+              "opensource",
+              "python",
+              "virtualization",
+              "xen"
+            ]
           },
           "first_seen": "2026-08-28T19:34:15.215Z"
         }
@@ -347,15 +617,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:34:15.215Z",
+    "last_updated": "2026-08-29T04:28:22.267Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Bare-metal is awesome. Let's share our favourite tools. ",
+      "homepage": "https://thenewstack.io/bare-metal-in-a-cloud-native-world/",
       "id": 255855988,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-03-24T08:47:46Z",
+      "open_issues": 12,
       "owner": "alexellis",
       "repo": "awesome-baremetal",
-      "stars": 1916
+      "stars": 1916,
+      "topics": []
     },
     "original_repository_sha": "5094dbafd7e2b29231ea87262136cb8c220d4e56",
     "enhanced_repository": "enhansome/enhansome-baremetal",
