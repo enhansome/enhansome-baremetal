@@ -24,8 +24,8 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 ## Self-hosted tools for bare-metal management
 
 * [LinuxKit](https://github.com/linuxkit/linuxkit) ⭐ 8,643 | 🐛 378 | 🌐 Go | 📅 2026-06-03 - "A toolkit for building secure, portable and lean operating systems for containers" - PXE support, focus on immutable infrastructure.
-* [foreman](https://github.com/theforeman/foreman) ⭐ 2,909 | 🐛 114 | 🌐 Ruby | 📅 2026-08-27 - "From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier"
-* [cobbler](https://github.com/cobbler/cobbler) ⭐ 2,766 | 🐛 309 | 🌐 Python | 📅 2026-08-28 - "Cobbler is a Linux installation server that allows for rapid setup of network installation environments"
+* [foreman](https://github.com/theforeman/foreman) ⭐ 2,909 | 🐛 113 | 🌐 Ruby | 📅 2026-08-27 - "From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier"
+* [cobbler](https://github.com/cobbler/cobbler) ⭐ 2,766 | 🐛 310 | 🌐 Python | 📅 2026-08-29 - "Cobbler is a Linux installation server that allows for rapid setup of network installation environments"
 * [Typhoon](https://github.com/poseidon/typhoon/) ⭐ 2,052 | 🐛 9 | 🌐 HCL | 📅 2026-08-23 - "A minimal and free Kubernetes distribution with Terraform backed by Fedora CoreOS or Flatcar Linux"
 * [pixiecore](https://github.com/danderson/netboot/tree/master/pixiecore) ⭐ 1,609 | 🐛 36 | 🌐 Go | 📅 2026-02-01 "Pixiecore is an tool to manage network booting of machines" by Dave Anderson
 * [iDRAC 6 dockerized](https://github.com/DomiStyle/docker-idrac6) ⭐ 933 | 🐛 40 | 🌐 C | 📅 2026-02-28 "Allows access to the iDRAC 6 console without installing Java or messing with Java Web Start." by DomiStyle
@@ -57,7 +57,7 @@ These projects may be archived but are useful for learning and inspiration.
 Tools often used with bare-metal tooling:
 
 * [Varnish-Cache](https://github.com/varnishcache/varnish-cache) ⚠️ Archived Varnish Cache, the high-performance HTTP accelerator
-* [kube-vip](https://github.com/plunder-app/kube-vip) ⭐ 2,942 | 🐛 68 | 🌐 Go | 📅 2026-08-28 - "Kubernetes Control Plane Virtual IP and Load-Balancer"
+* [kube-vip](https://github.com/plunder-app/kube-vip) ⭐ 2,942 | 🐛 68 | 🌐 Go | 📅 2026-08-29 - "Kubernetes Control Plane Virtual IP and Load-Balancer"
 * [PorterLB](https://github.com/kubesphere/porterlb) ⭐ 1,774 | 🐛 78 | 🌐 Go | 📅 2025-05-26 - "PorterLB is an open-source load balancer implementation designed for bare-metal Kubernetes clusters."
 * [inlets-operator](https://github.com/inlets/inlets-operator) ⭐ 1,436 | 🐛 8 | 🌐 Go | 📅 2026-08-18 - "Public IPs for your private Kubernetes Services using inlets"
 * [inlets](https://github.com/inlets/inlets-pro) ⭐ 574 | 🐛 3 | 🌐 Mustache | 📅 2026-07-14 - "A Cloud Native Tunnel for L4 TCP and L7 HTTPS" (sponsored)
@@ -101,7 +101,7 @@ The Mac Mini M1 and Mac Mini M2 can be installed with [Asahi Linux](https://asah
 
 Orchestration of Virtual Machines (VMs) using KVM.
 
-* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,157 | 🐛 220 | 🌐 Rust | 📅 2026-08-28
+* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,157 | 🐛 219 | 🌐 Rust | 📅 2026-08-29
 * [Ganeti](https://github.com/ganeti/ganeti) ⭐ 582 | 🐛 334 | 🌐 Python | 📅 2026-07-27 - "Open source hyperconverged VM platform that scales from several to thousands of bare metal servers. Originally written for internal use at Google."
 * [Firecracker](https://firecracker-microvm.github.io/)
 * [QEMU](https://www.qemu.org/) - QEMU is the traditional hypervisor, which now contains a ["microvm" profile](https://www.qemu.org/docs/master/system/i386/microvm.html)
@@ -113,7 +113,7 @@ Orchestration of Virtual Machines (VMs) using KVM.
 
 * [OpenEBS](https://openebs.io/) - "Open Source Container Attached Storage, simplifies running Stateful Applications on Kubernetes.
 * [Rook](https://rook.io/) - "Open-Source, Cloud-Native Storage Orchestrator for Kubernetes"
-* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 34,337 | 🐛 758 | 🌐 Go | 📅 2026-08-29 - Apache 2.0 - "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files"
+* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 34,344 | 🐛 759 | 🌐 Go | 📅 2026-08-29 - Apache 2.0 - "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files"
 * [Minio](https://min.io/) - AGPLv3 and commercial license for Object Storage.
 
 ## Appendix
