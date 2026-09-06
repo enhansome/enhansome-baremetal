@@ -144,7 +144,7 @@
             "open_issues": 36,
             "owner": "danderson",
             "repo": "netboot",
-            "stars": 1609,
+            "stars": 1610,
             "topics": [
               "dhcp",
               "netboot",
@@ -574,7 +574,7 @@
             "open_issues": 227,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6190,
+            "stars": 6191,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -597,7 +597,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-02T11:56:49Z",
-            "open_issues": 335,
+            "open_issues": 339,
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 583,
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:22:28.296Z",
+    "last_updated": "2026-09-06T11:43:55.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bare-metal is awesome. Let's share our favourite tools. ",

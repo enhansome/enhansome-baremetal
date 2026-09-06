@@ -27,7 +27,7 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 * [foreman](https://github.com/theforeman/foreman) ⭐ 2,914 | 🐛 105 | 🌐 Ruby | 📅 2026-09-04 - "From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier"
 * [cobbler](https://github.com/cobbler/cobbler) ⭐ 2,772 | 🐛 308 | 🌐 Python | 📅 2026-09-02 - "Cobbler is a Linux installation server that allows for rapid setup of network installation environments"
 * [Typhoon](https://github.com/poseidon/typhoon/) ⭐ 2,052 | 🐛 6 | 🌐 HCL | 📅 2026-08-31 - "A minimal and free Kubernetes distribution with Terraform backed by Fedora CoreOS or Flatcar Linux"
-* [pixiecore](https://github.com/danderson/netboot/tree/master/pixiecore) ⭐ 1,609 | 🐛 36 | 🌐 Go | 📅 2026-02-01 "Pixiecore is an tool to manage network booting of machines" by Dave Anderson
+* [pixiecore](https://github.com/danderson/netboot/tree/master/pixiecore) ⭐ 1,610 | 🐛 36 | 🌐 Go | 📅 2026-02-01 "Pixiecore is an tool to manage network booting of machines" by Dave Anderson
 * [iDRAC 6 dockerized](https://github.com/DomiStyle/docker-idrac6) ⭐ 934 | 🐛 40 | 🌐 C | 📅 2026-02-28 "Allows access to the iDRAC 6 console without installing Java or messing with Java Web Start." by DomiStyle
 * [Warewulf](https://github.com/warewulf/warewulf) ⭐ 662 | 🐛 262 | 🌐 Go | 📅 2026-09-03 - "Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems."
 * [ironic](https://github.com/openstack/ironic) ⭐ 564 | 🐛 0 | 🌐 Python | 📅 2026-09-03 "A service for managing and provisioning Bare Metal servers" - from OpenStack Foundation
@@ -101,8 +101,8 @@ The Mac Mini M1 and Mac Mini M2 can be installed with [Asahi Linux](https://asah
 
 Orchestration of Virtual Machines (VMs) using KVM.
 
-* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,190 | 🐛 227 | 🌐 Rust | 📅 2026-09-05
-* [Ganeti](https://github.com/ganeti/ganeti) ⭐ 583 | 🐛 335 | 🌐 Python | 📅 2026-09-02 - "Open source hyperconverged VM platform that scales from several to thousands of bare metal servers. Originally written for internal use at Google."
+* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,191 | 🐛 227 | 🌐 Rust | 📅 2026-09-05
+* [Ganeti](https://github.com/ganeti/ganeti) ⭐ 583 | 🐛 339 | 🌐 Python | 📅 2026-09-02 - "Open source hyperconverged VM platform that scales from several to thousands of bare metal servers. Originally written for internal use at Google."
 * [Firecracker](https://firecracker-microvm.github.io/)
 * [QEMU](https://www.qemu.org/) - QEMU is the traditional hypervisor, which now contains a ["microvm" profile](https://www.qemu.org/docs/master/system/i386/microvm.html)
 * [oVirt](https://www.ovirt.org/) - "oVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible."
@@ -113,7 +113,7 @@ Orchestration of Virtual Machines (VMs) using KVM.
 
 * [OpenEBS](https://openebs.io/) - "Open Source Container Attached Storage, simplifies running Stateful Applications on Kubernetes.
 * [Rook](https://rook.io/) - "Open-Source, Cloud-Native Storage Orchestrator for Kubernetes"
-* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 34,477 | 🐛 766 | 🌐 Go | 📅 2026-09-05 - Apache 2.0 - "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files"
+* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 34,489 | 🐛 763 | 🌐 Go | 📅 2026-09-06 - Apache 2.0 - "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files"
 * [Minio](https://min.io/) - AGPLv3 and commercial license for Object Storage.
 
 ## Appendix
@@ -133,4 +133,4 @@ Then paste the output back into the document.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
