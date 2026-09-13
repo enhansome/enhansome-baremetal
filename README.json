@@ -19,7 +19,7 @@
             "open_issues": 376,
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8649,
+            "stars": 8650,
             "topics": [
               "cloud",
               "containers",
@@ -83,7 +83,7 @@
             "open_issues": 308,
             "owner": "cobbler",
             "repo": "cobbler",
-            "stars": 2772,
+            "stars": 2773,
             "topics": [
               "cobbler",
               "deployment",
@@ -198,7 +198,7 @@
             "language": "Go",
             "license": "NOASSERTION",
             "last_commit": "2026-09-11T01:02:00Z",
-            "open_issues": 261,
+            "open_issues": 262,
             "owner": "warewulf",
             "repo": "warewulf",
             "stars": 662,
@@ -423,7 +423,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-10T16:10:25Z",
-            "open_issues": 78,
+            "open_issues": 80,
             "owner": "kube-vip",
             "repo": "kube-vip",
             "stars": 2953,
@@ -489,7 +489,7 @@
             "open_issues": 8,
             "owner": "inlets",
             "repo": "inlets-operator",
-            "stars": 1435,
+            "stars": 1436,
             "topics": [
               "cloud-native",
               "devops",
@@ -574,7 +574,7 @@
             "open_issues": 220,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6215,
+            "stars": 6217,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:42:13.776Z",
+    "last_updated": "2026-09-13T12:49:20.162Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bare-metal is awesome. Let's share our favourite tools. ",
