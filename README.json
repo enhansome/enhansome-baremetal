@@ -19,7 +19,7 @@
             "open_issues": 376,
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8651,
+            "stars": 8652,
             "topics": [
               "cloud",
               "containers",
@@ -47,7 +47,7 @@
             "open_issues": 99,
             "owner": "theforeman",
             "repo": "foreman",
-            "stars": 2919,
+            "stars": 2920,
             "topics": [
               "cloud",
               "config-management",
@@ -169,7 +169,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-02-28T12:17:44Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "DomiStyle",
             "repo": "docker-idrac6",
             "stars": 937,
@@ -339,7 +339,7 @@
                 "open_issues": 3,
                 "owner": "puppetlabs-toy-chest",
                 "repo": "razor-server",
-                "stars": 505,
+                "stars": 506,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:15.215Z"
@@ -400,7 +400,7 @@
             "open_issues": 149,
             "owner": "varnishcache",
             "repo": "varnish-cache",
-            "stars": 4046,
+            "stars": 4045,
             "topics": [
               "caching",
               "high-performance",
@@ -426,7 +426,7 @@
             "open_issues": 77,
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 2959,
+            "stars": 2961,
             "topics": [
               "bgp",
               "control-plane",
@@ -489,7 +489,7 @@
             "open_issues": 8,
             "owner": "inlets",
             "repo": "inlets-operator",
-            "stars": 1437,
+            "stars": 1438,
             "topics": [
               "cloud-native",
               "devops",
@@ -571,10 +571,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2026-09-19T01:16:15Z",
-            "open_issues": 227,
+            "open_issues": 228,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6243,
+            "stars": 6244,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -597,7 +597,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-09-18T22:25:38Z",
-            "open_issues": 333,
+            "open_issues": 334,
             "owner": "ganeti",
             "repo": "ganeti",
             "stars": 586,
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T12:01:49.530Z",
+    "last_updated": "2026-09-20T12:35:18.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bare-metal is awesome. Let's share our favourite tools. ",
