@@ -43,11 +43,11 @@
             "id": 258750,
             "language": "Ruby",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T15:31:07Z",
-            "open_issues": 129,
+            "last_commit": "2026-09-29T12:25:50Z",
+            "open_issues": 125,
             "owner": "theforeman",
             "repo": "foreman",
-            "stars": 2932,
+            "stars": 2933,
             "topics": [
               "cloud",
               "config-management",
@@ -201,7 +201,7 @@
             "open_issues": 263,
             "owner": "warewulf",
             "repo": "warewulf",
-            "stars": 665,
+            "stars": 667,
             "topics": [
               "clusters",
               "containers",
@@ -225,11 +225,11 @@
             "id": 10066301,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T12:19:54Z",
+            "last_commit": "2026-09-29T02:50:51Z",
             "open_issues": 0,
             "owner": "openstack",
             "repo": "ironic",
-            "stars": 568,
+            "stars": 567,
             "topics": [
               "service"
             ]
@@ -308,7 +308,7 @@
             "id": 79814361,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T15:34:23Z",
+            "last_commit": "2026-09-28T20:10:20Z",
             "open_issues": 0,
             "owner": "lenovo",
             "repo": "confluent",
@@ -426,7 +426,7 @@
             "open_issues": 83,
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 2966,
+            "stars": 2965,
             "topics": [
               "bgp",
               "control-plane",
@@ -570,11 +570,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-09-28T15:24:52Z",
-            "open_issues": 234,
+            "last_commit": "2026-09-29T14:01:45Z",
+            "open_issues": 238,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6264,
+            "stars": 6268,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T15:50:39.955Z",
+    "last_updated": "2026-09-29T14:17:35.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bare-metal is awesome. Let's share our favourite tools. ",
