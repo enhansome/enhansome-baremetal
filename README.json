@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-22T07:55:43Z",
-            "open_issues": 376,
+            "open_issues": 377,
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8654,
+            "stars": 8653,
             "topics": [
               "cloud",
               "containers",
@@ -43,8 +43,8 @@
             "id": 258750,
             "language": "Ruby",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-02T12:56:24Z",
-            "open_issues": 130,
+            "last_commit": "2026-10-02T20:42:07Z",
+            "open_issues": 131,
             "owner": "theforeman",
             "repo": "foreman",
             "stars": 2950,
@@ -172,7 +172,7 @@
             "open_issues": 42,
             "owner": "DomiStyle",
             "repo": "docker-idrac6",
-            "stars": 941,
+            "stars": 943,
             "topics": [
               "dell",
               "docker",
@@ -229,7 +229,7 @@
             "open_issues": 0,
             "owner": "openstack",
             "repo": "ironic",
-            "stars": 566,
+            "stars": 565,
             "topics": [
               "service"
             ]
@@ -308,7 +308,7 @@
             "id": 79814361,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T15:50:32Z",
+            "last_commit": "2026-10-02T19:24:00Z",
             "open_issues": 0,
             "owner": "lenovo",
             "repo": "confluent",
@@ -426,7 +426,7 @@
             "open_issues": 84,
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 2967,
+            "stars": 2968,
             "topics": [
               "bgp",
               "control-plane",
@@ -561,7 +561,7 @@
         {
           "node_type": "item",
           "title": "Cloud Hypervisor",
-          "description": null,
+          "description": "cloud-hypervisor/cloud-hypervisor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -570,8 +570,8 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-02T13:54:29Z",
-            "open_issues": 239,
+            "last_commit": "2026-10-02T23:59:20Z",
+            "open_issues": 243,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
             "stars": 6278,
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:04:32.082Z",
+    "last_updated": "2026-10-03T04:34:16.290Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bare-metal is awesome. Let's share our favourite tools. ",
