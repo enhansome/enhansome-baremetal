@@ -19,7 +19,7 @@
             "open_issues": 377,
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8658,
+            "stars": 8659,
             "topics": [
               "cloud",
               "containers",
@@ -43,11 +43,11 @@
             "id": 258750,
             "language": "Ruby",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T07:52:28Z",
-            "open_issues": 131,
+            "last_commit": "2026-10-06T14:00:37Z",
+            "open_issues": 132,
             "owner": "theforeman",
             "repo": "foreman",
-            "stars": 2965,
+            "stars": 2967,
             "topics": [
               "cloud",
               "config-management",
@@ -248,11 +248,11 @@
             "id": 124905930,
             "language": "Scheme",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T10:02:12Z",
-            "open_issues": 496,
+            "last_commit": "2026-10-06T13:14:50Z",
+            "open_issues": 495,
             "owner": "scality",
             "repo": "metalk8s",
-            "stars": 394,
+            "stars": 395,
             "topics": [
               "artesca",
               "cloud",
@@ -400,7 +400,7 @@
             "open_issues": 149,
             "owner": "varnishcache",
             "repo": "varnish-cache",
-            "stars": 4044,
+            "stars": 4045,
             "topics": [
               "caching",
               "high-performance",
@@ -426,7 +426,7 @@
             "open_issues": 85,
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 2971,
+            "stars": 2972,
             "topics": [
               "bgp",
               "control-plane",
@@ -571,10 +571,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2026-10-06T08:07:07Z",
-            "open_issues": 248,
+            "open_issues": 250,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6294,
+            "stars": 6295,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:53:37.621Z",
+    "last_updated": "2026-10-06T14:25:44.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bare-metal is awesome. Let's share our favourite tools. ",
