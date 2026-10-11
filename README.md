@@ -24,9 +24,9 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 ## Self-hosted tools for bare-metal management
 
 * [LinuxKit](https://github.com/linuxkit/linuxkit) ⭐ 8,662 | 🐛 377 | 🌐 Go | 📅 2026-09-22 - "A toolkit for building secure, portable and lean operating systems for containers" - PXE support, focus on immutable infrastructure.
-* [foreman](https://github.com/theforeman/foreman) ⭐ 2,977 | 🐛 137 | 🌐 Ruby | 📅 2026-10-09 - "From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier"
+* [foreman](https://github.com/theforeman/foreman) ⭐ 2,978 | 🐛 137 | 🌐 Ruby | 📅 2026-10-09 - "From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier"
 * [cobbler](https://github.com/cobbler/cobbler) ⭐ 2,773 | 🐛 309 | 🌐 Python | 📅 2026-10-07 - "Cobbler is a Linux installation server that allows for rapid setup of network installation environments"
-* [Typhoon](https://github.com/poseidon/typhoon/) ⭐ 2,053 | 🐛 9 | 🌐 HCL | 📅 2026-10-09 - "A minimal and free Kubernetes distribution with Terraform backed by Fedora CoreOS or Flatcar Linux"
+* [Typhoon](https://github.com/poseidon/typhoon/) ⭐ 2,054 | 🐛 9 | 🌐 HCL | 📅 2026-10-11 - "A minimal and free Kubernetes distribution with Terraform backed by Fedora CoreOS or Flatcar Linux"
 * [pixiecore](https://github.com/danderson/netboot/tree/master/pixiecore) ⭐ 1,610 | 🐛 36 | 🌐 Go | 📅 2026-02-01 "Pixiecore is an tool to manage network booting of machines" by Dave Anderson
 * [iDRAC 6 dockerized](https://github.com/DomiStyle/docker-idrac6) ⭐ 954 | 🐛 41 | 🌐 C | 📅 2026-02-28 "Allows access to the iDRAC 6 console without installing Java or messing with Java Web Start." by DomiStyle
 * [Warewulf](https://github.com/warewulf/warewulf) ⭐ 668 | 🐛 263 | 🌐 Go | 📅 2026-10-09 - "Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems."
@@ -101,7 +101,7 @@ The Mac Mini M1 and Mac Mini M2 can be installed with [Asahi Linux](https://asah
 
 Orchestration of Virtual Machines (VMs) using KVM.
 
-* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,310 | 🐛 240 | 🌐 Rust | 📅 2026-10-10
+* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,316 | 🐛 243 | 🌐 Rust | 📅 2026-10-10
 * [Ganeti](https://github.com/ganeti/ganeti) ⭐ 587 | 🐛 331 | 🌐 Python | 📅 2026-10-02 - "Open source hyperconverged VM platform that scales from several to thousands of bare metal servers. Originally written for internal use at Google."
 * [Firecracker](https://firecracker-microvm.github.io/)
 * [QEMU](https://www.qemu.org/) - QEMU is the traditional hypervisor, which now contains a ["microvm" profile](https://www.qemu.org/docs/master/system/i386/microvm.html)
@@ -113,7 +113,7 @@ Orchestration of Virtual Machines (VMs) using KVM.
 
 * [OpenEBS](https://openebs.io/) - "Open Source Container Attached Storage, simplifies running Stateful Applications on Kubernetes.
 * [Rook](https://rook.io/) - "Open-Source, Cloud-Native Storage Orchestrator for Kubernetes"
-* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 35,366 | 🐛 811 | 🌐 Go | 📅 2026-10-10 - Apache 2.0 - "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files"
+* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 35,391 | 🐛 795 | 🌐 Go | 📅 2026-10-11 - Apache 2.0 - "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files"
 * [Minio](https://min.io/) - AGPLv3 and commercial license for Object Storage.
 
 ## Appendix
@@ -133,4 +133,4 @@ Then paste the output back into the document.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._

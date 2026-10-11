@@ -47,7 +47,7 @@
             "open_issues": 137,
             "owner": "theforeman",
             "repo": "foreman",
-            "stars": 2977,
+            "stars": 2978,
             "topics": [
               "cloud",
               "config-management",
@@ -108,11 +108,11 @@
             "id": 99544448,
             "language": "HCL",
             "license": "MIT",
-            "last_commit": "2026-10-09T04:01:34Z",
+            "last_commit": "2026-10-11T01:41:31Z",
             "open_issues": 9,
             "owner": "poseidon",
             "repo": "typhoon",
-            "stars": 2053,
+            "stars": 2054,
             "topics": [
               "aws",
               "azure",
@@ -570,11 +570,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-10T13:34:30Z",
-            "open_issues": 240,
+            "last_commit": "2026-10-10T14:23:46Z",
+            "open_issues": 243,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6310,
+            "stars": 6316,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:57:03.140Z",
+    "last_updated": "2026-10-11T14:19:47.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bare-metal is awesome. Let's share our favourite tools. ",
