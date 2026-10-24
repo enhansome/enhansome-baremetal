@@ -23,17 +23,17 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 
 ## Self-hosted tools for bare-metal management
 
-* [LinuxKit](https://github.com/linuxkit/linuxkit) ⭐ 8,667 | 🐛 380 | 🌐 Go | 📅 2026-10-21 - "A toolkit for building secure, portable and lean operating systems for containers" - PXE support, focus on immutable infrastructure.
-* [foreman](https://github.com/theforeman/foreman) ⭐ 2,996 | 🐛 126 | 🌐 Ruby | 📅 2026-10-22 - "From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier"
+* [LinuxKit](https://github.com/linuxkit/linuxkit) ⭐ 8,666 | 🐛 382 | 🌐 Go | 📅 2026-10-21 - "A toolkit for building secure, portable and lean operating systems for containers" - PXE support, focus on immutable infrastructure.
+* [foreman](https://github.com/theforeman/foreman) ⭐ 2,996 | 🐛 125 | 🌐 Ruby | 📅 2026-10-23 - "From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier"
 * [cobbler](https://github.com/cobbler/cobbler) ⭐ 2,776 | 🐛 294 | 🌐 Python | 📅 2026-10-22 - "Cobbler is a Linux installation server that allows for rapid setup of network installation environments"
 * [Typhoon](https://github.com/poseidon/typhoon/) ⭐ 2,055 | 🐛 8 | 🌐 HCL | 📅 2026-10-15 - "A minimal and free Kubernetes distribution with Terraform backed by Fedora CoreOS or Flatcar Linux"
 * [pixiecore](https://github.com/danderson/netboot/tree/master/pixiecore) ⭐ 1,612 | 🐛 36 | 🌐 Go | 📅 2026-02-01 "Pixiecore is an tool to manage network booting of machines" by Dave Anderson
 * [iDRAC 6 dockerized](https://github.com/DomiStyle/docker-idrac6) ⭐ 957 | 🐛 42 | 🌐 C | 📅 2026-02-28 "Allows access to the iDRAC 6 console without installing Java or messing with Java Web Start." by DomiStyle
-* [Warewulf](https://github.com/warewulf/warewulf) ⭐ 671 | 🐛 281 | 🌐 Go | 📅 2026-10-23 - "Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems."
-* [ironic](https://github.com/openstack/ironic) ⭐ 569 | 🐛 0 | 🌐 Python | 📅 2026-10-22 "A service for managing and provisioning Bare Metal servers" - from OpenStack Foundation
-* [metalk8s](https://github.com/scality/metalk8s) ⭐ 396 | 🐛 501 | 🌐 Scheme | 📅 2026-10-23 - "MetalK8s was launched to make it easier to run Kubernetes (K8s) on bare-metal servers that need persistent storage" by Scality
+* [Warewulf](https://github.com/warewulf/warewulf) ⭐ 672 | 🐛 281 | 🌐 Go | 📅 2026-10-23 - "Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems."
+* [ironic](https://github.com/openstack/ironic) ⭐ 570 | 🐛 0 | 🌐 Python | 📅 2026-10-24 "A service for managing and provisioning Bare Metal servers" - from OpenStack Foundation
+* [metalk8s](https://github.com/scality/metalk8s) ⭐ 395 | 🐛 500 | 🌐 Scheme | 📅 2026-10-23 - "MetalK8s was launched to make it easier to run Kubernetes (K8s) on bare-metal servers that need persistent storage" by Scality
 * [mr-provisioner](https://github.com/mr-provisioner/mr-provisioner) ⭐ 46 | 🐛 88 | 🌐 JavaScript | 📅 2023-01-12 - "Bare metal provisioning tool"
-* [confluent](https://github.com/lenovo/confluent) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-10-23 - "Service for onboarding and management of baremetal server BMCs and PXE"
+* [confluent](https://github.com/lenovo/confluent) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2026-10-24 - "Service for onboarding and management of baremetal server BMCs and PXE"
 * [bmc-toolbox](https://github.com/bmc-toolbox) - "bmc-toolbox is bunch of tools to ease BMC management"
 * [Collins](https://tumblr.github.io/collins/) - "CMDB / state machine for infrastructure automation"
 * [MAAS](https://maas.io) - "Metal as a Service" by Canonical
@@ -50,16 +50,16 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 These projects may be archived but are useful for learning and inspiration.
 
 * [Razor](https://github.com/puppetlabs/razor-server) ⚠️ Archived (archived) - "Razor is next generation provisioning software that handles bare metal hardware and virtual server provisioning"
-* [plundr](https://github.com/plunder-app/plunder) ⭐ 183 | 🐛 15 | 🌐 Go | 📅 2020-05-20 (inactive on GitHub - 4yrs) - "Plunder is a single-binary server that is all designed in order to make the provisioning of servers, platforms and applications easier." - with ClusterAPI support
+* [plundr](https://github.com/plunder-app/plunder) ⭐ 182 | 🐛 15 | 🌐 Go | 📅 2020-05-20 (inactive on GitHub - 4yrs) - "Plunder is a single-binary server that is all designed in order to make the provisioning of servers, platforms and applications easier." - with ClusterAPI support
 
 ## Networking for bare-metal cloud
 
 Tools often used with bare-metal tooling:
 
 * [Varnish-Cache](https://github.com/varnishcache/varnish-cache) ⚠️ Archived Varnish Cache, the high-performance HTTP accelerator
-* [kube-vip](https://github.com/plunder-app/kube-vip) ⭐ 2,986 | 🐛 81 | 🌐 Go | 📅 2026-10-19 - "Kubernetes Control Plane Virtual IP and Load-Balancer"
-* [PorterLB](https://github.com/kubesphere/porterlb) ⭐ 1,773 | 🐛 77 | 🌐 Go | 📅 2025-05-26 - "PorterLB is an open-source load balancer implementation designed for bare-metal Kubernetes clusters."
-* [inlets-operator](https://github.com/inlets/inlets-operator) ⭐ 1,439 | 🐛 9 | 🌐 Go | 📅 2026-08-18 - "Public IPs for your private Kubernetes Services using inlets"
+* [kube-vip](https://github.com/plunder-app/kube-vip) ⭐ 2,985 | 🐛 81 | 🌐 Go | 📅 2026-10-19 - "Kubernetes Control Plane Virtual IP and Load-Balancer"
+* [PorterLB](https://github.com/kubesphere/porterlb) ⭐ 1,772 | 🐛 77 | 🌐 Go | 📅 2025-05-26 - "PorterLB is an open-source load balancer implementation designed for bare-metal Kubernetes clusters."
+* [inlets-operator](https://github.com/inlets/inlets-operator) ⭐ 1,438 | 🐛 8 | 🌐 Go | 📅 2026-10-23 - "Public IPs for your private Kubernetes Services using inlets"
 * [inlets](https://github.com/inlets/inlets-pro) ⭐ 575 | 🐛 1 | 🌐 Mustache | 📅 2026-10-20 - "A Cloud Native Tunnel for L4 TCP and L7 HTTPS" (sponsored)
 * [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html) - "Dnsmasq provides network infrastructure for small networks: DNS, DHCP, router advertisement and network boot."
 * [HAProxy](http://www.haproxy.org) - "The Reliable, High Performance TCP/HTTP Load Balancer" - often used in place of hardware LB.
@@ -101,8 +101,8 @@ The Mac Mini M1 and Mac Mini M2 can be installed with [Asahi Linux](https://asah
 
 Orchestration of Virtual Machines (VMs) using KVM.
 
-* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,420 | 🐛 244 | 🌐 Rust | 📅 2026-10-23
-* [Ganeti](https://github.com/ganeti/ganeti) ⭐ 588 | 🐛 329 | 🌐 Python | 📅 2026-10-19 - "Open source hyperconverged VM platform that scales from several to thousands of bare metal servers. Originally written for internal use at Google."
+* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,423 | 🐛 243 | 🌐 Rust | 📅 2026-10-24
+* [Ganeti](https://github.com/ganeti/ganeti) ⭐ 588 | 🐛 330 | 🌐 Python | 📅 2026-10-19 - "Open source hyperconverged VM platform that scales from several to thousands of bare metal servers. Originally written for internal use at Google."
 * [Firecracker](https://firecracker-microvm.github.io/)
 * [QEMU](https://www.qemu.org/) - QEMU is the traditional hypervisor, which now contains a ["microvm" profile](https://www.qemu.org/docs/master/system/i386/microvm.html)
 * [oVirt](https://www.ovirt.org/) - "oVirt is an open-source distributed virtualization solution, designed to manage your entire enterprise infrastructure. oVirt uses the trusted KVM hypervisor and is built upon several other community projects, including libvirt, Gluster, PatternFly, and Ansible."
@@ -113,7 +113,7 @@ Orchestration of Virtual Machines (VMs) using KVM.
 
 * [OpenEBS](https://openebs.io/) - "Open Source Container Attached Storage, simplifies running Stateful Applications on Kubernetes.
 * [Rook](https://rook.io/) - "Open-Source, Cloud-Native Storage Orchestrator for Kubernetes"
-* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 35,701 | 🐛 737 | 🌐 Go | 📅 2026-10-23 - Apache 2.0 - "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files"
+* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 35,715 | 🐛 735 | 🌐 Go | 📅 2026-10-24 - Apache 2.0 - "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files"
 * [Minio](https://min.io/) - AGPLv3 and commercial license for Object Storage.
 
 ## Appendix
@@ -133,4 +133,4 @@ Then paste the output back into the document.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
