@@ -19,7 +19,7 @@
             "open_issues": 382,
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8666,
+            "stars": 8667,
             "topics": [
               "cloud",
               "containers",
@@ -47,7 +47,7 @@
             "open_issues": 125,
             "owner": "theforeman",
             "repo": "foreman",
-            "stars": 2996,
+            "stars": 2997,
             "topics": [
               "cloud",
               "config-management",
@@ -83,7 +83,7 @@
             "open_issues": 294,
             "owner": "cobbler",
             "repo": "cobbler",
-            "stars": 2776,
+            "stars": 2777,
             "topics": [
               "cobbler",
               "deployment",
@@ -108,8 +108,8 @@
             "id": 99544448,
             "language": "HCL",
             "license": "MIT",
-            "last_commit": "2026-10-15T11:21:45Z",
-            "open_issues": 8,
+            "last_commit": "2026-10-24T22:21:50Z",
+            "open_issues": 10,
             "owner": "poseidon",
             "repo": "typhoon",
             "stars": 2055,
@@ -423,10 +423,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-19T09:22:02Z",
-            "open_issues": 81,
+            "open_issues": 82,
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 2985,
+            "stars": 2986,
             "topics": [
               "bgp",
               "control-plane",
@@ -570,11 +570,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-24T09:56:09Z",
-            "open_issues": 243,
+            "last_commit": "2026-10-25T08:35:07Z",
+            "open_issues": 196,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6423,
+            "stars": 6429,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:11:16.100Z",
+    "last_updated": "2026-10-25T12:43:18.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bare-metal is awesome. Let's share our favourite tools. ",

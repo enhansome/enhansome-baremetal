@@ -23,10 +23,10 @@ Curator: [Alex Ellis](https://www.alexellis.io) - founder of [OpenFaaS](https://
 
 ## Self-hosted tools for bare-metal management
 
-* [LinuxKit](https://github.com/linuxkit/linuxkit) ⭐ 8,666 | 🐛 382 | 🌐 Go | 📅 2026-10-21 - "A toolkit for building secure, portable and lean operating systems for containers" - PXE support, focus on immutable infrastructure.
-* [foreman](https://github.com/theforeman/foreman) ⭐ 2,996 | 🐛 125 | 🌐 Ruby | 📅 2026-10-23 - "From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier"
-* [cobbler](https://github.com/cobbler/cobbler) ⭐ 2,776 | 🐛 294 | 🌐 Python | 📅 2026-10-22 - "Cobbler is a Linux installation server that allows for rapid setup of network installation environments"
-* [Typhoon](https://github.com/poseidon/typhoon/) ⭐ 2,055 | 🐛 8 | 🌐 HCL | 📅 2026-10-15 - "A minimal and free Kubernetes distribution with Terraform backed by Fedora CoreOS or Flatcar Linux"
+* [LinuxKit](https://github.com/linuxkit/linuxkit) ⭐ 8,667 | 🐛 382 | 🌐 Go | 📅 2026-10-21 - "A toolkit for building secure, portable and lean operating systems for containers" - PXE support, focus on immutable infrastructure.
+* [foreman](https://github.com/theforeman/foreman) ⭐ 2,997 | 🐛 125 | 🌐 Ruby | 📅 2026-10-23 - "From provisioning and configuration to orchestration and monitoring, Foreman integrates with your existing infrastructure to make operations easier"
+* [cobbler](https://github.com/cobbler/cobbler) ⭐ 2,777 | 🐛 294 | 🌐 Python | 📅 2026-10-22 - "Cobbler is a Linux installation server that allows for rapid setup of network installation environments"
+* [Typhoon](https://github.com/poseidon/typhoon/) ⭐ 2,055 | 🐛 10 | 🌐 HCL | 📅 2026-10-24 - "A minimal and free Kubernetes distribution with Terraform backed by Fedora CoreOS or Flatcar Linux"
 * [pixiecore](https://github.com/danderson/netboot/tree/master/pixiecore) ⭐ 1,612 | 🐛 36 | 🌐 Go | 📅 2026-02-01 "Pixiecore is an tool to manage network booting of machines" by Dave Anderson
 * [iDRAC 6 dockerized](https://github.com/DomiStyle/docker-idrac6) ⭐ 957 | 🐛 42 | 🌐 C | 📅 2026-02-28 "Allows access to the iDRAC 6 console without installing Java or messing with Java Web Start." by DomiStyle
 * [Warewulf](https://github.com/warewulf/warewulf) ⭐ 672 | 🐛 281 | 🌐 Go | 📅 2026-10-23 - "Warewulf is a stateless and diskless container operating system provisioning system for large clusters of bare metal and/or virtual systems."
@@ -57,7 +57,7 @@ These projects may be archived but are useful for learning and inspiration.
 Tools often used with bare-metal tooling:
 
 * [Varnish-Cache](https://github.com/varnishcache/varnish-cache) ⚠️ Archived Varnish Cache, the high-performance HTTP accelerator
-* [kube-vip](https://github.com/plunder-app/kube-vip) ⭐ 2,985 | 🐛 81 | 🌐 Go | 📅 2026-10-19 - "Kubernetes Control Plane Virtual IP and Load-Balancer"
+* [kube-vip](https://github.com/plunder-app/kube-vip) ⭐ 2,986 | 🐛 82 | 🌐 Go | 📅 2026-10-19 - "Kubernetes Control Plane Virtual IP and Load-Balancer"
 * [PorterLB](https://github.com/kubesphere/porterlb) ⭐ 1,772 | 🐛 77 | 🌐 Go | 📅 2025-05-26 - "PorterLB is an open-source load balancer implementation designed for bare-metal Kubernetes clusters."
 * [inlets-operator](https://github.com/inlets/inlets-operator) ⭐ 1,438 | 🐛 8 | 🌐 Go | 📅 2026-10-23 - "Public IPs for your private Kubernetes Services using inlets"
 * [inlets](https://github.com/inlets/inlets-pro) ⭐ 575 | 🐛 1 | 🌐 Mustache | 📅 2026-10-20 - "A Cloud Native Tunnel for L4 TCP and L7 HTTPS" (sponsored)
@@ -101,7 +101,7 @@ The Mac Mini M1 and Mac Mini M2 can be installed with [Asahi Linux](https://asah
 
 Orchestration of Virtual Machines (VMs) using KVM.
 
-* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,423 | 🐛 243 | 🌐 Rust | 📅 2026-10-24
+* [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,429 | 🐛 196 | 🌐 Rust | 📅 2026-10-25
 * [Ganeti](https://github.com/ganeti/ganeti) ⭐ 588 | 🐛 330 | 🌐 Python | 📅 2026-10-19 - "Open source hyperconverged VM platform that scales from several to thousands of bare metal servers. Originally written for internal use at Google."
 * [Firecracker](https://firecracker-microvm.github.io/)
 * [QEMU](https://www.qemu.org/) - QEMU is the traditional hypervisor, which now contains a ["microvm" profile](https://www.qemu.org/docs/master/system/i386/microvm.html)
@@ -113,7 +113,7 @@ Orchestration of Virtual Machines (VMs) using KVM.
 
 * [OpenEBS](https://openebs.io/) - "Open Source Container Attached Storage, simplifies running Stateful Applications on Kubernetes.
 * [Rook](https://rook.io/) - "Open-Source, Cloud-Native Storage Orchestrator for Kubernetes"
-* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 35,715 | 🐛 735 | 🌐 Go | 📅 2026-10-24 - Apache 2.0 - "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files"
+* [SeaweedFS](https://github.com/seaweedfs/seaweedfs) ⭐ 35,725 | 🐛 716 | 🌐 Go | 📅 2026-10-25 - Apache 2.0 - "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files"
 * [Minio](https://min.io/) - AGPLv3 and commercial license for Object Storage.
 
 ## Appendix
@@ -133,4 +133,4 @@ Then paste the output back into the document.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
