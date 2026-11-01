@@ -197,8 +197,8 @@
             "id": 308060485,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T04:20:44Z",
-            "open_issues": 284,
+            "last_commit": "2026-11-01T06:22:08Z",
+            "open_issues": 286,
             "owner": "warewulf",
             "repo": "warewulf",
             "stars": 673,
@@ -360,7 +360,7 @@
                 "open_issues": 15,
                 "owner": "plunder-app",
                 "repo": "plunder",
-                "stars": 182,
+                "stars": 183,
                 "topics": [
                   "bare-metal",
                   "bootstrap",
@@ -422,11 +422,11 @@
             "id": 237778673,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T12:48:02Z",
+            "last_commit": "2026-11-01T07:39:04Z",
             "open_issues": 85,
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 2992,
+            "stars": 2994,
             "topics": [
               "bgp",
               "control-plane",
@@ -460,7 +460,7 @@
             "open_issues": 77,
             "owner": "openelb",
             "repo": "openelb",
-            "stars": 1772,
+            "stars": 1773,
             "topics": [
               "bare-metal",
               "baremetal",
@@ -570,11 +570,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-31T00:38:09Z",
-            "open_issues": 201,
+            "last_commit": "2026-11-01T14:02:26Z",
+            "open_issues": 200,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6444,
+            "stars": 6449,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -600,7 +600,7 @@
             "open_issues": 332,
             "owner": "ganeti",
             "repo": "ganeti",
-            "stars": 588,
+            "stars": 589,
             "topics": [
               "haskell",
               "kvm",
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T13:49:25.084Z",
+    "last_updated": "2026-11-01T14:28:02.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bare-metal is awesome. Let's share our favourite tools. ",
