@@ -19,7 +19,7 @@
             "open_issues": 379,
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8667,
+            "stars": 8668,
             "topics": [
               "cloud",
               "containers",
@@ -80,7 +80,7 @@
             "language": "Python",
             "license": "GPL-2.0",
             "last_commit": "2026-10-28T10:38:15Z",
-            "open_issues": 301,
+            "open_issues": 302,
             "owner": "cobbler",
             "repo": "cobbler",
             "stars": 2781,
@@ -108,8 +108,8 @@
             "id": 99544448,
             "language": "HCL",
             "license": "MIT",
-            "last_commit": "2026-11-06T04:40:53Z",
-            "open_issues": 7,
+            "last_commit": "2026-11-08T01:41:39Z",
+            "open_issues": 8,
             "owner": "poseidon",
             "repo": "typhoon",
             "stars": 2055,
@@ -426,7 +426,7 @@
             "open_issues": 91,
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 3000,
+            "stars": 3002,
             "topics": [
               "bgp",
               "control-plane",
@@ -570,11 +570,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-07T10:53:03Z",
-            "open_issues": 200,
+            "last_commit": "2026-11-08T14:05:49Z",
+            "open_issues": 198,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6481,
+            "stars": 6487,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T14:17:59.830Z",
+    "last_updated": "2026-11-08T14:28:29.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bare-metal is awesome. Let's share our favourite tools. ",
@@ -629,7 +629,7 @@
       "open_issues": 12,
       "owner": "alexellis",
       "repo": "awesome-baremetal",
-      "stars": 1917,
+      "stars": 1916,
       "topics": []
     },
     "original_repository_sha": "5094dbafd7e2b29231ea87262136cb8c220d4e56",
