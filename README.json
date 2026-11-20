@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T08:48:16Z",
-            "open_issues": 375,
+            "open_issues": 377,
             "owner": "linuxkit",
             "repo": "linuxkit",
-            "stars": 8676,
+            "stars": 8675,
             "topics": [
               "cloud",
               "containers",
@@ -43,11 +43,11 @@
             "id": 258750,
             "language": "Ruby",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-19T16:39:00Z",
+            "last_commit": "2026-11-19T17:46:29Z",
             "open_issues": 132,
             "owner": "theforeman",
             "repo": "foreman",
-            "stars": 3004,
+            "stars": 3003,
             "topics": [
               "cloud",
               "config-management",
@@ -108,11 +108,11 @@
             "id": 99544448,
             "language": "HCL",
             "license": "MIT",
-            "last_commit": "2026-11-12T02:41:55Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-20T08:42:04Z",
+            "open_issues": 10,
             "owner": "poseidon",
             "repo": "typhoon",
-            "stars": 2056,
+            "stars": 2055,
             "topics": [
               "aws",
               "azure",
@@ -144,7 +144,7 @@
             "open_issues": 36,
             "owner": "danderson",
             "repo": "netboot",
-            "stars": 1613,
+            "stars": 1612,
             "topics": [
               "dhcp",
               "netboot",
@@ -172,7 +172,7 @@
             "open_issues": 44,
             "owner": "DomiStyle",
             "repo": "docker-idrac6",
-            "stars": 964,
+            "stars": 963,
             "topics": [
               "dell",
               "docker",
@@ -201,7 +201,7 @@
             "open_issues": 293,
             "owner": "warewulf",
             "repo": "warewulf",
-            "stars": 673,
+            "stars": 674,
             "topics": [
               "clusters",
               "containers",
@@ -225,11 +225,11 @@
             "id": 10066301,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T11:24:30Z",
+            "last_commit": "2026-11-20T04:41:38Z",
             "open_issues": 0,
             "owner": "openstack",
             "repo": "ironic",
-            "stars": 575,
+            "stars": 574,
             "topics": [
               "service"
             ]
@@ -248,11 +248,11 @@
             "id": 124905930,
             "language": "Scheme",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T15:32:20Z",
-            "open_issues": 516,
+            "last_commit": "2026-11-20T15:17:05Z",
+            "open_issues": 517,
             "owner": "scality",
             "repo": "metalk8s",
-            "stars": 396,
+            "stars": 395,
             "topics": [
               "artesca",
               "cloud",
@@ -308,7 +308,7 @@
             "id": 79814361,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T15:48:02Z",
+            "last_commit": "2026-11-20T13:24:20Z",
             "open_issues": 0,
             "owner": "lenovo",
             "repo": "confluent",
@@ -339,7 +339,7 @@
                 "open_issues": 2,
                 "owner": "puppetlabs-toy-chest",
                 "repo": "razor-server",
-                "stars": 506,
+                "stars": 505,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:34:15.215Z"
@@ -400,7 +400,7 @@
             "open_issues": 149,
             "owner": "varnishcache",
             "repo": "varnish-cache",
-            "stars": 4043,
+            "stars": 4040,
             "topics": [
               "caching",
               "high-performance",
@@ -422,11 +422,11 @@
             "id": 237778673,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T12:36:10Z",
-            "open_issues": 83,
+            "last_commit": "2026-11-20T12:20:45Z",
+            "open_issues": 84,
             "owner": "kube-vip",
             "repo": "kube-vip",
-            "stars": 3008,
+            "stars": 3007,
             "topics": [
               "bgp",
               "control-plane",
@@ -489,7 +489,7 @@
             "open_issues": 8,
             "owner": "inlets",
             "repo": "inlets-operator",
-            "stars": 1439,
+            "stars": 1438,
             "topics": [
               "cloud-native",
               "devops",
@@ -526,7 +526,7 @@
             "open_issues": 1,
             "owner": "inlets",
             "repo": "inlets-pro",
-            "stars": 576,
+            "stars": 575,
             "topics": [
               "carrier-grade-nat",
               "cloud-native",
@@ -570,11 +570,11 @@
             "id": 184341774,
             "language": "Rust",
             "license": null,
-            "last_commit": "2026-11-19T15:19:46Z",
-            "open_issues": 192,
+            "last_commit": "2026-11-20T11:30:26Z",
+            "open_issues": 193,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6541,
+            "stars": 6548,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -600,7 +600,7 @@
             "open_issues": 333,
             "owner": "ganeti",
             "repo": "ganeti",
-            "stars": 591,
+            "stars": 590,
             "topics": [
               "haskell",
               "kvm",
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:44:59.164Z",
+    "last_updated": "2026-11-20T16:19:19.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bare-metal is awesome. Let's share our favourite tools. ",
