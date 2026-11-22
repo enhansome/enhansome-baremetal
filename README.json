@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T08:48:16Z",
-            "open_issues": 377,
+            "open_issues": 378,
             "owner": "linuxkit",
             "repo": "linuxkit",
             "stars": 8675,
@@ -47,7 +47,7 @@
             "open_issues": 132,
             "owner": "theforeman",
             "repo": "foreman",
-            "stars": 3003,
+            "stars": 3004,
             "topics": [
               "cloud",
               "config-management",
@@ -83,7 +83,7 @@
             "open_issues": 298,
             "owner": "cobbler",
             "repo": "cobbler",
-            "stars": 2780,
+            "stars": 2779,
             "topics": [
               "cobbler",
               "deployment",
@@ -422,8 +422,8 @@
             "id": 237778673,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-20T12:20:45Z",
-            "open_issues": 85,
+            "last_commit": "2026-11-22T11:51:00Z",
+            "open_issues": 77,
             "owner": "kube-vip",
             "repo": "kube-vip",
             "stars": 3007,
@@ -571,10 +571,10 @@
             "language": "Rust",
             "license": null,
             "last_commit": "2026-11-21T14:53:12Z",
-            "open_issues": 195,
+            "open_issues": 197,
             "owner": "cloud-hypervisor",
             "repo": "cloud-hypervisor",
-            "stars": 6553,
+            "stars": 6557,
             "topics": [
               "cloud-workloads",
               "kvm",
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T15:32:58.077Z",
+    "last_updated": "2026-11-22T15:36:28.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "Bare-metal is awesome. Let's share our favourite tools. ",
